@@ -9,31 +9,16 @@ Este é um aplicativo que posibilita a conversão em tempo real da Moeda Real Br
 <img src="https://github.com/Ediberto/Conversao-de-moeda/raw/main/imagem02.png" width="260">&emsp;
 
 ## Tecnologias
-* NetBeans
-* mongoDB
-* DBCollection
-* MongoClient
-* BasicDBObject
-* DBCursor
-* printStackTrace
-* Java
-* java.util.List
-* javax.swing
+* A serem informadas
   
 - Components de UI
-    - JFormattedTextField
-    - JLabel
-    - initComponents
-    - JButton
-    - JTextField
-    - JPasswordField
-    - JFrame
+    - A serem informadas
     
 ### TODO
 - Melhorar estilização do aplicativo, implementando mais regras de negócio com entradas de dados e geração de relatórios
 
 ## Author
-Ediberto Mariano da Silva (follow me on [Linkedin] (https://www.linkedin.com/in/ediberto-mariano-da-silva-238071118/))
+Ediberto Mariano da Silva (follow me on [Linkedin] (A ser informado)
 
 ## License
 ```
