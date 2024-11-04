@@ -4,7 +4,7 @@ Este é um aplicativo que posibilita a conversão em tempo real da Moeda Real Br
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/conversao-moeda/imagem01.png" width="260">&emsp;<img src="/conversao-moeda/imagem02.png">&emsp;
+<img src="/Conversao-de-moeda/imagem01.png" width="260">&emsp;<img src="/Conversao-de-moeda/imagem02.png">&emsp;
 
 ## Tecnologias
 * NetBeans
