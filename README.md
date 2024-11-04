@@ -4,7 +4,9 @@ Este é um aplicativo que posibilita a conversão em tempo real da Moeda Real Br
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/Ediberto/Conversao-de-moeda/raw/main/imagem01.png" width="260">&emsp;<img src="https://github.com/Ediberto/Conversao-de-moeda/raw/main/imagem02.png width="260">&emsp;
+<img src="/projetomongoDB/imagens/foto01.png" width="260">&emsp;<img src="/projetomongoDB/imagens/foto02.png" width="260">&emsp;
+<img src="https://github.com/Ediberto/Conversao-de-moeda/raw/main/imagem01.png" width="260">&emsp;
+<img src="https://github.com/Ediberto/Conversao-de-moeda/raw/main/imagem02.png" width="260">&emsp;
 
 ## Tecnologias
 * NetBeans
