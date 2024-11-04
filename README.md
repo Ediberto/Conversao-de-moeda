@@ -9,16 +9,27 @@ Este é um aplicativo que posibilita a conversão em tempo real da Moeda Real Br
 <img src="https://github.com/Ediberto/Conversao-de-moeda/raw/main/imagem02.png" width="260">&emsp;
 
 ## Tecnologias
-* A serem informadas
+* Android Studio
+* Kotlin
+* Jetpack Composer
+* Retrofit
+* coroutines
+* Gson
+* DateTimeFormatter
+* graphics.Color
+* text.font
+* text.input.TextFieldValue
+* text.input.KeyboardType
+* fundation.text.KeyboardOptions
+* java.time.LocalDate
+* java.time.format.DateTimeFormatter
   
-- Components de UI
-    - A serem informadas
-    
+ 
 ### TODO
-- Melhorar estilização do aplicativo, implementando mais regras de negócio com entradas de dados e geração de relatórios
+- Melhorar estilização do aplicativo, implementando mais regras de negócio com conversão da moeda Brasileira (REAL), com todas as moedas Internacionais.
 
 ## Author
-Ediberto Mariano da Silva (follow me on [Linkedin] (A ser informado)
+Ediberto Mariano da Silva (follow me on [Linkedin] (https://www.linkedin.com/feed/update/urn:li:activity:7259225284950839297/)
 
 ## License
 ```
