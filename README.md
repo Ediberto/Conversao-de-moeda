@@ -1,4 +1,4 @@
-# Conversao de moeda do Real para Dóllar e Euro
+# Convertendo a moeda do Real para Dóllar e Euro
 Este é um aplicativo que posibilita a conversão em tempo real da Moeda Real Brasileira, para as Moedas Dólar e Euro através de uma API. Resolvi implementar este sistema com o objetivo de auxiliar uma empresa que atende vários clientes, e pagam suas compras na maioria das vezes com as moedas Dolar e Euro.
 
 
